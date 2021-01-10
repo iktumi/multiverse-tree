@@ -15,7 +15,7 @@ npm install openbits -g
 
 Then login into openbits by following these <a href="https://www.npmjs.com/package/openbits" target="_blank">instructions</a>.
 
-When OpenBits is set up, then install batrandom as followings:
+When OpenBits is set up, then install tree as followings:
 
 ```shell
 openbits install tree
