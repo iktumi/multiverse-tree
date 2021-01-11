@@ -18,7 +18,7 @@ Then login into openbits by following these <a href="https://www.npmjs.com/packa
 When OpenBits is set up, then install tree as followings:
 
 ```shell
-openbits install tree
+openbits install tree-lib
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ openbits install tree
 Import the package:
 
 ```Javascript
-import tree from 'tree';
+import tree from 'tree-lib';
 ```
 
 Create a new Tree:
